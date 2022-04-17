@@ -31,6 +31,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 1- Para instalar:
 > npm install
+
 2- Para iniciar a aplicação:
 > npm run start
 
